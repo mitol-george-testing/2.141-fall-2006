@@ -1,0 +1,43 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1d27739d-8d36-fc03-7fe1-117847d3f93b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Modeling and Simulation of Dynamic Systems",
+  "course_description": "This course models multi-domain engineering systems at a level of detail suitable for design and control system implementation. Topics include network representation, state-space models; multi-port energy storage and dissipation, Legendre transforms; nonlinear mechanics, transformation theory, Lagrangian and Hamiltonian forms; and control-relevant properties. Application examples may include electro-mechanical transducers, mechanisms, electronics, fluid and thermal systems, compressible flow, chemical processes, diffusion, and wave transmission.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.141",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
